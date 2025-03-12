@@ -39,13 +39,6 @@ Per eseguire il modello su un video:
 python src/pose_estimation.py --video path/to/video.mp4
 ```
 
-### Jupyter Notebooks
-
-Per esplorare i notebooks, eseguire:
-```bash
-jupyter notebook notebooks/
-```
-
 ## Contribuire
 
 Contributi sono benvenuti! Seguire questi passaggi per contribuire:
