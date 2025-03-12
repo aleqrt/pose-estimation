@@ -1,9 +1,4 @@
-Certo! Ecco un esempio di file README per il repository "Pose Estimation with PoseNet":
-
-```markdown
 # Pose Estimation with PoseNet
-
-![Pose Estimation](path/to/image.png)
 
 ## Descrizione
 
@@ -16,14 +11,6 @@ Questo progetto implementa la stima della posa umana utilizzando PoseNet. PoseNe
 - **data/**: Dataset utilizzati per l'addestramento e la validazione.
 - **notebooks/**: Jupyter notebooks per esplorazioni e analisi.
 - **docs/**: Documentazione del progetto.
-
-## Tecnologie Utilizzate
-
-- **Python**: 83.2%
-- **JavaScript**: 12.3%
-- **HTML**: 2.9%
-- **Mako**: 1.2%
-- **CSS**: 0.4%
 
 ## Installazione
 
